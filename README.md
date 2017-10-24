@@ -22,3 +22,5 @@ To edit this file, you can use online editor which will open this file after you
 - [ ] Twin Peaks
 - [x] Breaking Bad
 - [x] Power
+- [ ] Marvel Inhumans
+- [ ] Once Upon A Time
