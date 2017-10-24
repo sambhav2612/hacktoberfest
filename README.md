@@ -1,8 +1,8 @@
 # hacktoberfest-bingeWatcher
 ### This might be one of the simplest repo on github for hacktoberfest.     
-#### Simply add the television series'you have seen and thise you'd want to see in future.  
+#### Simply add the television series' you have seen and those you'd want to see in future.  
 
-Edit this file, commit the changes and create a pull request, ill merge the request in no time :)
+To edit this file, you can use online editor which will open this file after yiu oredd that pencil buttob in the uooer right cornet. When you are done editing this file, commit the changes and create a pull request, ill merge the request in no time :)
 
 - [ ] South Park
 - [ ] The Simpsons
