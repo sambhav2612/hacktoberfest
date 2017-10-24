@@ -9,3 +9,5 @@
 - [x] Stranger Things
 - [ ] Family Guy
 - [ ] Taboo(2016)
+- [X] Westworld(2016)
+- [X] Vikings
