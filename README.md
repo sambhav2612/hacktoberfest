@@ -13,5 +13,6 @@ Edit this file, commit the changes and create a pull request, ill merge the requ
 - [x] Stranger Things
 - [ ] Family Guy
 - [ ] Taboo(2016)
+- [ ] Prison Break
 - [X] Westworld(2016)
 - [X] Vikings
