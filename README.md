@@ -20,3 +20,5 @@ Edit this file, commit the changes and create a pull request, ill merge the requ
 - [x] American Gods
 - [ ] Preacher
 - [ ] Twin Peaks
+- [x] Breaking Bad
+- [x] Power
