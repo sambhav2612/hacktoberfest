@@ -17,3 +17,6 @@ Edit this file, commit the changes and create a pull request, ill merge the requ
 - [x] Band of Brothers
 - [x] Penny Dreadful
 - [ ] Lucifer
+- [x] American Gods
+- [ ] Preacher
+- [ ] Twin Peaks
