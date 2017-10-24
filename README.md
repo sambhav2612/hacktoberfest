@@ -32,4 +32,5 @@ To edit this file, you can use online editor which will open this file after you
 - [X] 2 Broke Girls
 - [X] V (Visitors)
 - [X] Lost
-
+- [ ] Marvel Inhumans
+- [ ] Once Upon A Time
