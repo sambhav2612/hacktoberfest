@@ -2,3 +2,4 @@
 - Oscar Castro [(@legio1221)](https://github.com/Legio1221)
 - Nazar Nasirzada [(@nnasirzada)](https://github.com/nnasirzada)
 - Erika Wunderli-Vallai [@erikawunderli] (https://github.com/ErikaWunderli)
+- Joris Mansart [@MisterJack49](https://github.com/MisterJack49)
