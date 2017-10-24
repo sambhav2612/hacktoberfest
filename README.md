@@ -22,3 +22,14 @@ To edit this file, you can use online editor which will open this file after you
 - [ ] Twin Peaks
 - [x] Breaking Bad
 - [x] Power
+- [X] You're the Worst
+- [X] Outlander
+- [X] The Tudors
+- [X] The Vikings
+- [X] Black Sails
+- [X] Billions
+- [X] House of Cards
+- [X] 2 Broke Girls
+- [X] V (Visitors)
+- [X] Lost
+
