@@ -37,3 +37,14 @@ To edit this file, you can use online editor which will open this file after you
 - [ ] Friends 
 - [ ] Chance
 - [ ] American Horror Story
+- [ ] Mindhunter
+- [ ] White Collar
+- [ ] House MD
+- [ ] Gotham
+- [ ] Flash
+- [ ] Arrow
+- [ ] Dexter
+- [ ] Friends
+- [ ] The 100
+- [ ] The X-Files
+- [ ] Star Trek: The Next Generation
