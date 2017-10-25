@@ -34,6 +34,9 @@ To edit this file, you can use online editor which will open this file after you
 - [X] Lost
 - [ ] Marvel Inhumans
 - [ ] Once Upon A Time
+- [ ] Friends 
+- [ ] Chance
+- [ ] American Horror Story
 - [ ] Mindhunter
 - [ ] White Collar
 - [ ] House MD
