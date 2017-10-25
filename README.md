@@ -32,6 +32,9 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Prison Break
   - [x] Narcos
   - [x] Lost
+  - [x] Brickleberry
+  - [x] Mr. Robot
+  - [x] Bay Watch
 
 **To-Watch:**
   - [ ] South Park
@@ -64,4 +67,6 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] How I Met Your Mother
   - [ ] The Walking Dead
   - [ ] Sword Art Online
+  - [ ] Rick and Morty
+  - [ ] Modern Family
   
