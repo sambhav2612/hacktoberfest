@@ -8,3 +8,4 @@ List of users contributing to this repository:
 - Erika Wunderli-Vallai [(@erikawunderli)](https://github.com/ErikaWunderli)
 - Joris Mansart [(@MisterJack49)](https://github.com/MisterJack49)
 - Jayam Shah [(@jshah59)](https://github.com/jshah59)
+- Richard Robinson [(@kincade71)](https://github.com/kincade71)
