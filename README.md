@@ -34,6 +34,7 @@ To edit this file, you can use online editor which will open this file after you
 - [X] Lost
 - [ ] Marvel Inhumans
 - [ ] Once Upon A Time
+- [ ] Parks and Recreation
 - [ ] The Big Bang Theory
 - [X] Brooklyn Nine Nine
 - [X] The Good Place
