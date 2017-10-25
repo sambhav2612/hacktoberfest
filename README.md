@@ -34,3 +34,5 @@ To edit this file, you can use online editor which will open this file after you
 - [X] Lost
 - [ ] Marvel Inhumans
 - [ ] Once Upon A Time
+- [ ] The X-Files
+- [ ] Star Trek: The Next Generation
