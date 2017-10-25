@@ -4,52 +4,55 @@
 
 To edit this file, you can use online editor which will open this file after you presss that pencil button in the upper right corner. When you are done editing this file, commit the changes and create a pull request, i'll merge the request in no time :)
 
-- [ ] South Park
-- [ ] The Simpsons
-- [x] Game of Thrones
-- [ ] Silicon Valley
-- [ ] Big Mouth
-- [ ] 13 Reasons Why
-- [x] Stranger Things
-- [ ] Family Guy
-- [ ] Taboo(2016)
-- [x] Fringe
-- [x] Band of Brothers
-- [x] Penny Dreadful
-- [ ] Lucifer
-- [x] American Gods
-- [ ] Preacher
-- [ ] Twin Peaks
-- [x] Breaking Bad
-- [x] Power
-- [X] You're the Worst
-- [X] Outlander
-- [X] The Tudors
-- [X] The Vikings
-- [X] Black Sails
-- [X] Billions
-- [X] House of Cards
-- [X] 2 Broke Girls
-- [X] V (Visitors)
-- [X] Lost
-- [ ] Marvel Inhumans
-- [ ] Once Upon A Time
-- [ ] Parks and Recreation
-- [ ] The Big Bang Theory
-- [X] Brooklyn Nine Nine
-- [X] The Good Place
-- [ ] Mindhunter
-- [ ] Friends 
-- [ ] Chance
-- [ ] American Horror Story
-- [ ] Mindhunter
-- [ ] White Collar
-- [ ] House MD
-- [ ] Gotham
-- [ ] Flash
-- [ ] Arrow
-- [ ] Dexter
-- [ ] Friends
-- [ ] The 100
-- [ ] The X-Files
-- [ ] Star Trek: The Next Generation
+**Watched:** 
+  - [x] Game of Thrones
+  - [x] Stranger Things
+  - [x] Fringe
+  - [x] Band of Brothers
+  - [x] Penny Dreadful
+  - [x] American Gods
+  - [x] Breaking Bad
+  - [x] Power
+  - [x] You're the Worst
+  - [x] Outlander
+  - [x] The Tudors
+  - [x] The Vikings
+  - [x] Black Sails
+  - [x] Billions
+  - [x] House of Cards
+  - [x] 2 Broke Girls
+  - [x] V (Visitors)
+  - [x] Lost
+  - [x] Brooklyn Nine Nine
+  - [x] The Good Place
+  
+**To-Watch:**
+  - [ ] South Park
+  - [ ] The Simpsons
+  - [ ] Silicon Valley
+  - [ ] Big Mouth
+  - [ ] 13 Reasons Why
+  - [ ] Family Guy
+  - [ ] Taboo(2016)
+  - [ ] Lucifer
+  - [ ] Preacher
+  - [ ] Twin Peaks
+  - [ ] Marvel Inhumans
+  - [ ] Once Upon A Time
+  - [ ] Parks and Recreation
+  - [ ] The Big Bang Theory
+  - [ ] Mindhunter
+  - [ ] Friends 
+  - [ ] Chance
+  - [ ] American Horror Story
+  - [ ] Mindhunter
+  - [ ] White Collar
+  - [ ] House MD
+  - [ ] Gotham
+  - [ ] Flash
+  - [ ] Arrow
+  - [ ] Dexter
+  - [ ] Friends
+  - [ ] The 100
+  - [ ] The X-Files
+  - [ ] Star Trek: The Next Generation
