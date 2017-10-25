@@ -26,6 +26,7 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Brooklyn Nine Nine
   - [x] The Good Place
   - [x] The Walking Dead
+  - [x] Stargate
 
 **To-Watch:**
   - [ ] South Park
@@ -56,3 +57,4 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The X-Files
   - [ ] Star Trek: The Next Generation
   - [ ] How I Met Your Mother
+  - [ ] The Walking Dead
