@@ -34,5 +34,13 @@ To edit this file, you can use online editor which will open this file after you
 - [X] Lost
 - [ ] Marvel Inhumans
 - [ ] Once Upon A Time
+- [ ] White Collar
+- [ ] House MD
+- [ ] Gotham
+- [ ] Flash
+- [ ] Arrow
+- [ ] Dexter
+- [ ] Friends
+- [ ] The 100
 - [ ] The X-Files
 - [ ] Star Trek: The Next Generation
