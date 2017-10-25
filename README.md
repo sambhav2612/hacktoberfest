@@ -38,6 +38,7 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Luke Cage
   - [x] The Vampire Diaries
   - [x] Sherlock
+  - [x] Hawaii Five O
 
 **To-Watch:**
   - [ ] South Park
