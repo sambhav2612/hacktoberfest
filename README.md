@@ -35,6 +35,8 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Brickleberry
   - [x] Mr. Robot
   - [x] Bay Watch
+  - [x] The Vampire Diaries
+  - [x] Sherlock
 
 **To-Watch:**
   - [ ] South Park
@@ -69,4 +71,7 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] Sword Art Online
   - [ ] Rick and Morty
   - [ ] Modern Family
+  - [ ] Westworld
+  - [ ] Teen Wolf
+  - [ ] House of Cards
   
