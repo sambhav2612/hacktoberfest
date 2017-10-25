@@ -1,5 +1,6 @@
 - Sambhav Jain [(@sambhav2612)](https://github.com/sambhav2612)
 - Oscar Castro [(@legio1221)](https://github.com/Legio1221)
 - Nazar Nasirzada [(@nnasirzada)](https://github.com/nnasirzada)
-- Erika Wunderli-Vallai [@erikawunderli] (https://github.com/ErikaWunderli)
-- Jayam Shah [@jshah59](https://github.com/jshah59)
+- Erika Wunderli-Vallai [(@erikawunderli)] (https://github.com/ErikaWunderli)
+- Joris Mansart [(@MisterJack49)](https://github.com/MisterJack49)
+- Jayam Shah [(@jshah59)](https://github.com/jshah59)
