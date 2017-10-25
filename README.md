@@ -25,7 +25,8 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Lost
   - [x] Brooklyn Nine Nine
   - [x] The Good Place
-  
+  - [x] The Walking Dead
+
 **To-Watch:**
   - [ ] South Park
   - [ ] The Simpsons
