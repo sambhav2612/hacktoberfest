@@ -31,6 +31,14 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Marvel's Daredevil
   - [x] Prison Break
   - [x] Narcos
+  - [x] Lost
+  - [x] Brickleberry
+  - [x] Mr. Robot
+  - [x] Bay Watch
+  - [x] Luke Cage
+  - [x] The Vampire Diaries
+  - [x] Sherlock
+  - [x] Hawaii Five O
   - [x] The Deuce
 
 **To-Watch:**
@@ -63,4 +71,9 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] Star Trek: The Next Generation
   - [ ] How I Met Your Mother
   - [ ] The Walking Dead
-  
+  - [ ] Sword Art Online
+  - [ ] Rick and Morty
+  - [ ] Modern Family
+  - [ ] The Defenders
+  - [ ] Westworld
+  - [ ] Teen Wolf
