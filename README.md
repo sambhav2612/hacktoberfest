@@ -39,6 +39,7 @@ To edit this file, you can use online editor which will open this file after you
   - [x] The Vampire Diaries
   - [x] Sherlock
   - [x] Hawaii Five O
+  - [x] The Deuce
 
 **To-Watch:**
   - [ ] South Park
