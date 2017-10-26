@@ -31,6 +31,7 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Marvel's Daredevil
   - [x] Prison Break
   - [x] Narcos
+  - [x] The Deuce
 
 **To-Watch:**
   - [ ] South Park
