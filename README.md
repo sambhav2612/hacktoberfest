@@ -40,8 +40,10 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Sherlock
   - [x] Hawaii Five O
   - [x] The Deuce
+  - [x] Black Mirror
   - [x] Life Below Zero
-  
+
+
 **To-Watch:**
   - [ ] South Park
   - [ ] The Simpsons
@@ -80,3 +82,4 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] Teen Wolf
   - [ ] The Gifted
   - [ ] Rick and Morty
+  - [ ] Freaks and Geeks
