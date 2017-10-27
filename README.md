@@ -41,6 +41,8 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Hawaii Five O
   - [x] The Deuce
   - [x] Black Mirror
+  - [x] Life Below Zero
+
 
 **To-Watch:**
   - [ ] South Park
