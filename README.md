@@ -2,7 +2,7 @@
 ### This might be one of the simplest repository on github for hacktoberfest.     
 #### Simply add the television series' you have seen and those you'd want to see in future.  
 
-To edit this file, you can use online editor which will open this file after you press that pencil button in the upper right corner. When you are done editing this file, commit the changes and create a pull request, i'll merge the request in no time :)
+To edit this file, you can use online GitHub editor (see that little pencil icon above this box, that's it) which will open this file. When you are done editing this file, commit the changes and create a pull request, I'll approve and merge the request in no time :)
 
 **Watched:** 
   - [x] Game of Thrones
@@ -34,12 +34,17 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Lost
   - [x] Brickleberry
   - [x] Mr. Robot
-  - [x] Bay Watch
-  - [x] Luke Cage
+  - [x] Baywatch
+  - [x] Marvels's Luke Cage
   - [x] The Vampire Diaries
   - [x] Sherlock
   - [x] Hawaii Five O
   - [x] The Deuce
+  - [x] Black Mirror
+  - [x] Life Below Zero
+  - [x] The Defenders
+  - [x] Westworld
+
 
 **To-Watch:**
   - [ ] South Park
@@ -70,12 +75,9 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The X-Files
   - [ ] Star Trek: The Next Generation
   - [ ] How I Met Your Mother
-  - [ ] The Walking Dead
   - [ ] Sword Art Online
   - [ ] Rick and Morty
   - [ ] Modern Family
-  - [ ] The Defenders
-  - [ ] Westworld
   - [ ] Teen Wolf
   - [ ] The Gifted
   - [ ] Rick and Morty
