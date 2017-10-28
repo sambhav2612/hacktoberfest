@@ -80,3 +80,4 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The Gifted
   - [ ] Rick and Morty
   - [ ] Freaks and Geeks
+  - [ ] The Good Doctor
