@@ -10,3 +10,4 @@ List of users contributing to this repository:
 - Jayam Shah [(@jshah59)](https://github.com/jshah59)
 - Richard Robinson [(@kincade71)](https://github.com/kincade71)
 - Khemmapon Tawantham [(@khemmapon)](https://github.com/khemmapon)
+- Vaibhav [@vjain02](https://github.com/vjain02)
