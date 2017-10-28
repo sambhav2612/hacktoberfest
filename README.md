@@ -34,14 +34,16 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Lost
   - [x] Brickleberry
   - [x] Mr. Robot
-  - [x] Bay Watch
-  - [x] Luke Cage
+  - [x] Baywatch
+  - [x] Marvels's Luke Cage
   - [x] The Vampire Diaries
   - [x] Sherlock
   - [x] Hawaii Five O
   - [x] The Deuce
   - [x] Black Mirror
   - [x] Life Below Zero
+  - [x] The Defenders
+  - [x] Westworld
 
 
 **To-Watch:**
@@ -73,13 +75,9 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The X-Files
   - [ ] Star Trek: The Next Generation
   - [ ] How I Met Your Mother
-  - [ ] The Walking Dead
   - [ ] Sword Art Online
   - [ ] Rick and Morty
   - [ ] Modern Family
-  - [ ] The Defenders
-  - [ ] Westworld
   - [ ] Teen Wolf
   - [ ] The Gifted
-  - [ ] Rick and Morty
   - [ ] Freaks and Geeks
