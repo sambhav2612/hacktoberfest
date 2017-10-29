@@ -82,4 +82,6 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Modern Family
   - [ ] Teen Wolf
   - [ ] The Gifted
+  - [ ] Rick and Morty
   - [ ] Freaks and Geeks
+  - [ ] The Good Doctor
