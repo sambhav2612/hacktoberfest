@@ -47,6 +47,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Serial Experiments Lain
   - [x] Dragon Ball Z
   - [x] Daredevil
+  - [x] Tarak Mehta ka Ooltah Chashama(Indian)
 
 
 **To-Watch:**
