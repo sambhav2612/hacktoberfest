@@ -12,3 +12,4 @@ List of users contributing to this repository:
 - Khemmapon Tawantham [(@khemmapon)](https://github.com/khemmapon)
 - Vaibhav [@vjain02](https://github.com/vjain02)
 - VKJain [@vkjain66](https://github.com/vkjain66)
+- Shaurya Singhal [@1808shaurya](https://github.com/1808shaurya)
