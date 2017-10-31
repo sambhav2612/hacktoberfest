@@ -49,7 +49,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Daredevil
   - [x] Tarak Mehta ka Ooltah Chashama(Indian)
   - [x] King Arthur and the Knights of Justice
-
+  - [x] how i met your mother
 
 
 **To-Watch:**
@@ -89,3 +89,4 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Rick and Morty
   - [ ] Freaks and Geeks
   - [ ] The Good Doctor
+  
