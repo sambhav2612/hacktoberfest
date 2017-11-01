@@ -52,7 +52,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Heroes of tomorrow
   - [x] Scream queens
   - [x] how i met your mother
-
+  - [x] The Flash
 
 **To-Watch:**
   - [ ] South Park
