@@ -53,6 +53,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Scream queens
   - [x] how i met your mother
   - [x] The Flash
+  - [x] True Detective
 
 **To-Watch:**
   - [ ] South Park
@@ -92,4 +93,5 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Freaks and Geeks
   - [ ] The Good Doctor
   - [ ] Paycheck
+  - [ ] The Handmaiden's Tale
   
