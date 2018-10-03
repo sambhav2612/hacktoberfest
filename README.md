@@ -91,5 +91,3 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Rick and Morty
   - [ ] Freaks and Geeks
   - [ ] The Good Doctor
-  - [ ] Paycheck
-  
