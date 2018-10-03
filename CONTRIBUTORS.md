@@ -13,3 +13,5 @@ List of users contributing to this repository:
 - Vaibhav [@vjain02](https://github.com/vjain02)
 - VKJain [@vkjain66](https://github.com/vkjain66)
 - Shaurya Singhal [@1808shaurya](https://github.com/1808shaurya)
+- hitesh yadav [@hitesh9811](https://github.com/hitesh9811)
+- mosekwa motlana [@hitesh9811](https://github.com/mosekwa)
