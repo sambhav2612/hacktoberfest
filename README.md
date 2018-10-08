@@ -92,4 +92,6 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Freaks and Geeks
   - [ ] The Good Doctor
   - [ ] Paycheck
+  - [ ] Its Always Sunny in Philidelphia
+  - [ ] Community
   
