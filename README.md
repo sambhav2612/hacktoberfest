@@ -52,7 +52,8 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Heroes of tomorrow
   - [x] Scream queens
   - [x] how i met your mother
-  - [x] The Flash
+  - [x] The Flash 
+  - [x] The Reign  
 
 **To-Watch:**
   - [ ] South Park
