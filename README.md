@@ -53,6 +53,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Scream queens
   - [x] how i met your mother
   - [x] The Flash
+  - [x] Sacred Games
 
 **To-Watch:**
   - [ ] South Park
@@ -67,6 +68,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [ ] Twin Peaks
   - [ ] Marvel Inhumans
   - [ ] Once Upon A Time
+  - [ ] Resident Evil
   - [ ] Parks and Recreation
   - [ ] The Big Bang Theory
   - [ ] Mindhunter
