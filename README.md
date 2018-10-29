@@ -53,6 +53,8 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Scream queens
   - [x] how i met your mother
   - [x] The Flash
+  - [x] Sacred Games
+  - [x] Marvels S.H.I.E.L.D 
 
 **To-Watch:**
   - [ ] South Park
