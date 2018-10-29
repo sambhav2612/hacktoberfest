@@ -15,3 +15,4 @@ List of users contributing to this repository:
 - Shaurya Singhal [@1808shaurya](https://github.com/1808shaurya)
 - hitesh yadav [@hitesh9811](https://github.com/hitesh9811)
 - mosekwa motlana [@hitesh9811](https://github.com/mosekwa)
+- Ishu Saini [@sainiharit](https://github.com/sainirock61)
