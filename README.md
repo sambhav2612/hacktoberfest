@@ -53,6 +53,7 @@ To edit this file, you can use online GitHub editor (see that little pencil icon
   - [x] Scream queens
   - [x] how i met your mother
   - [x] The Flash
+  - [x] A Grande Família
 
 **To-Watch:**
   - [ ] South Park
