@@ -55,7 +55,7 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] Parks and Recreation
   - [ ] The Big Bang Theory
   - [ ] Mindhunter
-  - [ ] Friends 
+  - [ ] Friends
   - [ ] Chance
   - [ ] American Horror Story
   - [ ] White Collar
@@ -75,3 +75,4 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The Defenders
   - [ ] Westworld
   - [ ] Teen Wolf
+  - [ ] Death Note
